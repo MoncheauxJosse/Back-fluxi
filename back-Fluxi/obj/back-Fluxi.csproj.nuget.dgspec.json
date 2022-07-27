@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur\\source\\repos\\back-Fluxi\\back-Fluxi\\back-Fluxi.csproj": {}
+    "C:\\Users\\Administrateur\\Desktop\\FLuxi\\Fluxi_Back\\Back-fluxi\\back-Fluxi\\back-Fluxi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur\\source\\repos\\back-Fluxi\\back-Fluxi\\back-Fluxi.csproj": {
+    "C:\\Users\\Administrateur\\Desktop\\FLuxi\\Fluxi_Back\\Back-fluxi\\back-Fluxi\\back-Fluxi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur\\source\\repos\\back-Fluxi\\back-Fluxi\\back-Fluxi.csproj",
+        "projectUniqueName": "C:\\Users\\Administrateur\\Desktop\\FLuxi\\Fluxi_Back\\Back-fluxi\\back-Fluxi\\back-Fluxi.csproj",
         "projectName": "back-Fluxi",
-        "projectPath": "C:\\Users\\Administrateur\\source\\repos\\back-Fluxi\\back-Fluxi\\back-Fluxi.csproj",
+        "projectPath": "C:\\Users\\Administrateur\\Desktop\\FLuxi\\Fluxi_Back\\Back-fluxi\\back-Fluxi\\back-Fluxi.csproj",
         "packagesPath": "C:\\Users\\Administrateur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur\\source\\repos\\back-Fluxi\\back-Fluxi\\obj\\",
+        "outputPath": "C:\\Users\\Administrateur\\Desktop\\FLuxi\\Fluxi_Back\\Back-fluxi\\back-Fluxi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrateur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,32 +40,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.AspNetCore.Session": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -89,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
